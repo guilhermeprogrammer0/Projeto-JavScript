@@ -15,7 +15,7 @@ function listar(lista) {
             '<td>' + c.nome + '</td>' +
             '<td>' + c.cpf + '</td>' +
             '<td>' + c.data + '</td>' +
-            '<td>' + '<a href="#" class="btn btn-success btnAlterar" rel="' + i + '">' + 'Alterar' + '</a>' + '</td>' +
+            '<td>' + '<a href="#" class="btn btn-warning btnAlterar" rel="' + i + '">' + 'Alterar' + '</a>' + '</td>' +
             '<td>' + '<a href="#" class="btn btn-danger btnExcluir" rel="' + i + '">' + 'Excluir' + '</a>' + '</td>' +
             '</tr>';
     });

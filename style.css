@@ -153,10 +153,14 @@ footer {
         width: 40%;
         color: #ffff;
     }
+    #ide h1
+    {
+        font-size: 1.5em;
+    }
     .lista {
         height: 300px;
         overflow: auto;
-        width: 80%;
+        width: 95%;
     }
 
 
